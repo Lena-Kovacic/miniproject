@@ -52,7 +52,6 @@ function outputData(person) {
   if ((new RegExp(/author/gi)).test(person.profession)) {
     row.classList.add('auto');
   }
-
   if ((new RegExp(/1966/gi)).test(person.birthyear)) {
     row.classList.add('1966');
   }

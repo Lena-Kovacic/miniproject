@@ -3,8 +3,8 @@ body {
 }
 
 button {
-  font-size: 16px;
-  padding: 8px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .redButton{
@@ -20,11 +20,11 @@ button {
   background-color: LightBlue;
 }
 .blackButton{
-  background-color: Navy;
+  background-color: Goldenrod;
 }
 
 table, th, td {
-  border: 10px solid black;
+  border: 7px solid Maroon;
 }
 
 table {
