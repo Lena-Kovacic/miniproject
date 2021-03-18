@@ -53,6 +53,10 @@ function outputData(person) {
     row.classList.add('auto');
   }
 
+  if ((new RegExp(/1966/gi)).test(person.birthyear)) {
+    row.classList.add('1966');
+  }
+
 }
 
 // The below function will get called when the window finishes loading our data

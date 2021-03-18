@@ -19,6 +19,9 @@ button {
 .yellowButton{
   background-color: LightBlue;
 }
+.blackButton{
+  background-color: Navy;
+}
 
 table, th, td {
   border: 10px solid black;
